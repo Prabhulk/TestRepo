@@ -2,13 +2,14 @@ master
 hd
 djd
 dh
-abcd
-gdd
-fdkf
 m
 m
+<<<<<<< Updated upstream
+m
+=======
 m
 m
 m
 m
 
+>>>>>>> Stashed changes
